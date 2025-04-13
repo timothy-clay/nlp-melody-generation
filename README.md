@@ -1,5 +1,6 @@
 # Natural Language Processing Final Project: Melody Generation
 Timothy Clay
+
 Last Updated: April 13th, 2025
 
 ## Overview
