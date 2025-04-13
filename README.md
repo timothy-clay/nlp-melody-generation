@@ -1,5 +1,6 @@
 # Natural Language Processing Final Project: Melody Generation
 Timothy Clay
+Last Updated: April 13th, 2025
 
 ## Overview
 This repository contains all the source code I used to create three language models ($n$-gram, RNN, and GPT-2) for the purpose of generating a simple melody. 
